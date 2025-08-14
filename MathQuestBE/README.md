@@ -33,7 +33,7 @@ python -m scripts.seed
 uvicorn app.main:app --reload --port 8000
 ```
 
-it will run on 'localhost:8000', the API docs could be accessed at 'localhost:8000/docs'
+it will run on `localhost:8000`, the API docs could be accessed at `localhost:8000/docs`
 
 ## Run Unit Test
 ```bash
