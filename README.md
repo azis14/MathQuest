@@ -58,6 +58,6 @@ After we have this data, we can start to think about how we can improve our syst
 - **Billingual content** helps people who doesn't fluent in Malay language.
 
 ### Specific Improvements
-- **Add solution discussion** On the past quiz attempt, instead of only showing the correct answer, show the solution discussion.
-- **Add real past math SPM file** Maybe user with pro subscription could have a list of real past math SPM file.
+- **Add solution discussion** On the past quiz attempt, instead of only showing the correct answer, show the solution discussion and resource material to learn more.
+- **Add student discussion forum** Students could discuss about how to solve the questions.
 
